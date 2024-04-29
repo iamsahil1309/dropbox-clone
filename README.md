@@ -5,18 +5,31 @@ Welcome to my Dropbox clone project! This project is a comprehensive replica of 
 
 ## Features
 -> Firebase Storage Integration: Effortlessly upload files to Firebase storage.
+
 -> Full CRUD Functionality: Manage files with ease (Create, Read, Update, Delete).
+
 -> Beautiful UI & UX: Stunning design with Shadcn for intuitive user experience.
+
 -> Authentication with NextAuth & Clerk: Secure your app with NextAuth Middleware and Clerk Authentication.
+
 -> Data Fetching Loaders: Maintain user engagement during data fetching.
+
 -> File Sorter Feature: Organize files efficiently with sorting options.
+
 -> Table View with Metadata Display: Present files along with metadata in a table view.
+
 -> Global State Management with Zustand: Efficiently manage global state with Zustand.
+
 -> Tailwind CSS for UI Design: Craft a beautiful UI with Tailwind CSS.
+
 -> File Download Capability: Download files hassle-free.
+
 -> Drag and Drop Uploads with React DnD: Convenient drag and drop file uploads.
+
 -> Dark Mode Toggle: Enhance user comfort with light and dark mode options.
+
 -> TypeScript Integration: Ensure code reliability and reduce errors.
+
 -> Deployment on Vercel: Easily host your final build on Vercel.
 
 
